@@ -26,6 +26,7 @@ venv/
 env/
 ENV/
 .venv
+vehicle_det_venv/
 
 # IDE
 .vscode/
@@ -52,9 +53,9 @@ ENV/
 *.onnx
 *.weights
 
-# Data files (uncomment if you want to exclude datasets)
-# Dataset/
-# data/
+# Data files
+Dataset/
+data/
 
 # Logs
 *.log
